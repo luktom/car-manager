@@ -1,0 +1,1 @@
+This is a web application to manage and monitor car expenses. It is using Spring Boot and React.
